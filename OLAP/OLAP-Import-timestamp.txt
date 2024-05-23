@@ -1,0 +1,35 @@
+TimeStamp: 2024-05-08 17:36:15 --- Number of new  records loaded into Driver = 38783
+
+------------------------------------------------------------------------------------------------
+
+TimeStamp: 2024-05-08 18:27:49 --- Number of new  records loaded into Automobile_details table = 300909
+------------------------------------------------------------------------------------------------
+
+TimeStamp: 2024-05-08 18:55:10 --- Number of new  records loaded into Accident_details table = 17842
+------------------------------------------------------------------------------------------------
+
+All the foreign keys have been inserted into the Fact table
+TimeStamp: 2024-05-08 21:02:32 --- Number of new  records loaded into FT_Vehicles_Involved table = 302079
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+TimeStamp: 2024-05-09 02:38:59 --- Number of new  records loaded into Road table = 88486
+------------------------------------------------------------------------------------------------
+
+TimeStamp: 2024-05-09 02:42:29 --- Number of new  records loaded into Acc_Incidents table = 448
+------------------------------------------------------------------------------------------------
+
+TimeStamp: 2024-05-09 02:46:58 --- Number of new  records loaded into Location table = 199604
+------------------------------------------------------------------------------------------------
+
+TimeStamp: 2024-05-09 02:48:29 --- Number of new  records loaded into Date table = 190388
+------------------------------------------------------------------------------------------------
+
+All the foreign keys have been inserted into the Fact table
+TimeStamp: 2024-05-09 09:17:32 --- Number of new  records loaded into FT_Accident table = 300909
+------------------------------------------------------------------------------------------------
+
