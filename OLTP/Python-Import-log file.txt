@@ -1,0 +1,97 @@
+Importing Date csv into Dates table in Database ACCIDENTS
+
+Validation check 1 : Checking for duplicates. 
+Table - DATES : No duplicates found.
+Validation check 2 : Checking for Datatypes. 
+Table - DATES : All the entries are of correct datatype.
+Validation check 3 : Checking for Year range. 
+Table - DATES : Year column entries are in correct range (greater than 0)
+
+TimeStamp: 2024-05-07 15:13:54 --- Number of new records loaded IN Table - DATES : 4383
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing location csv into Location table in Database ACCIDENTS
+
+Validation check 1 : Checking for duplicates. 
+Table - Location : No duplicates found.
+Validation check 2 : Checking for Datatypes. 
+Table - Location : All the entries are of correct datatype.
+Validation check 3 : Checking for missing entries 
+Table - Location : No missing entries.
+
+TimeStamp: 2024-05-07 15:45:12 --- Number of new records loaded IN Table - Location : 190891
+-----------------------------------------------------------------------------------------------------------------------------
+
+ 
+Importing Ped human control csv into Pedestrian_Human_Control table in Database ACCIDENTS
+
+TimeStamp: 2024-05-07 16:01:29 --- Number of new records loaded IN Table - Pedestrian_Human_Control: 5
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing Ped Physical faciltiies csv into Pedestrian_Physical_Facilities table in Database ACCIDENTS
+
+TimeStamp: 2024-05-07 16:05:03 --- Number of new records loaded IN Table - Pedestrian_Crossing_Physical_Facilities : 8
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing Police attended csv into Police_Attendance table in Database ACCIDENTS
+
+TimeStamp: 2024-05-07 16:09:18 --- Number of new records loaded IN Table - Police_Attendance : 4
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing Driver IMD Decile csv into IMD_Decile table in Database ACCIDENTS
+
+TimeStamp: 2024-05-07 16:12:58 --- Number of new records loaded IN Table - IMD_Decile : 11
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing Restricted lane csv into Restricted_Lane table in Database ACCIDENTS
+
+TimeStamp: 2024-05-07 16:15:29 --- Number of new records loaded IN Table - Restricted_Lane : 13
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing accident_location csv into Accident_Location table in Database ACCIDENTS
+
+Validation check 1 : Checking for duplicates. 
+Table - Accident_Location : No duplicates found.
+Validation check 2 : Checking for Datatypes.
+Table - Accident_Location : All the entries are of correct datatype.
+Validation check 3 : Checking for Year range.
+Table - Accident_Location : Year column entries are in correct range (greater than 0)
+
+TimeStamp: 2024-05-07 16:24:01 --- Number of new records loaded IN Table - Accident_Location : 204143
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing accidents csv into Accidents table in Database ACCIDENTS
+
+Validation check 1 : Checking for duplicates.
+Table - Accidents : No duplicates found.
+Validation check 2 : Checking for Datatypes.
+Table - Accidents : All the entries are of correct datatype.
+Validation check 3 : Checking for missing entries.
+Table - Accidents : No missing entries.
+
+TimeStamp: 2024-05-07 16:46:21 --- Number of new records loaded IN Table - Accidents : 204143
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Importing vehicles csv into Vehicle table in Database ACCIDENTS
+
+Validation check 1 : Checking for duplicates.
+Table - Vehicle : No duplicates found.
+Validation check 2 : Checking for Age_of_Vehicle range.
+Table - Vehicle : Age_of_Vehicle column entries are in correct range (greater than 0)
+Validation check 3 : Checking for missing entries.
+Table - Vehicle : No missing entries.
+
+TimeStamp: 2024-05-07 17:10:47 --- Number of new records loaded IN Table - Vehicle : 302079
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
